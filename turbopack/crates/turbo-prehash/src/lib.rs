@@ -6,7 +6,7 @@
 //! This is useful for when you want to hash a value that is expensive to
 //! compute (e.g. a large string) but you want to avoid re-hashing it every
 //! time.
-//!
+//!  
 //! # Example
 //!
 //! ```
